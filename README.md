@@ -44,7 +44,7 @@ practicing_drl/
 docker pull mimoralea/gdrl:v0.14
 docker run -it --rm -p 8889:8888 -v C:\Users\mdiqb\Desktop\reinforce_learning\Groking_RL/notebooks/:/mnt/notebooks/ mimoralea/gdrl:v0.14
 ```
----
-password: gdrl
----
+
+Jupyter Notebook Password: gdrl
+
 
